@@ -1,5 +1,17 @@
 # Tugas Akhir: Membuat Website - Belajar Dasar Pemrograman Web (Dicoding)
 
+## Daftar Isi
+
+1. [Deskripsi Proyek](#-deskripsi-proyek)
+2. [Kriteria Wajib yang Dipenuhi](#-kriteria-wajib-yang-dipenuhi)
+3. [Fitur Tambahan yang Diimplementasikan](#-fitur-tambahan-yang-diimplementasikan)
+4. [Struktur Proyek](#-struktur-proyek)
+5. [Teknologi yang Digunakan](#-teknologi-yang-digunakan)
+6. [Preview Website](#-preview-website)
+7. [Cara Menjalankan Proyek](#-cara-menjalankan-proyek)
+8. [Kontributor](#-kontributor)
+9. [Catatan Tambahan](#-catatan-tambahan)
+
 ## 📌 Deskripsi Proyek
 
 Website ini dibuat sebagai submission akhir dari course _Belajar Dasar Pemrograman Web_ di Dicoding. Proyek ini menerapkan konsep HTML semantik, Flexbox untuk layout, dan JavaScript untuk memanipulasi DOM. Tema yang digunakan adalah **Website Travel Blog Yogyakarta** yang memperkenalkan destinasi wisata populer di Yogyakarta.
@@ -94,11 +106,13 @@ Website ini dibuat sebagai submission akhir dari course _Belajar Dasar Pemrogram
 
 ## 📝 Cara Menjalankan Proyek
 
-1. **Clone repository ini**:
+1. **Akses Live Demo** [disini](https://ramhaidar.github.io/explore-yogyakarta) (https://ramhaidar.github.io/explore-yogyakarta)
+
+2. **Clone repository ini**:
     ```bash
     git clone https://github.com/ramhaidar/explore-yogyakarta.git
     ```
-2. **Buka file `index.html` dengan browser**:
+3. **Buka file `index.html` dengan browser**:
     - Klik dua kali pada file `index.html`, atau
     - Jalankan dengan _Live Server_ di Visual Studio Code.
 
@@ -118,12 +132,8 @@ Website ini dibuat sebagai submission akhir dari course _Belajar Dasar Pemrogram
 -   Penamaan file dan folder sesuai dengan yang di-_import_ dalam kode (peka terhadap huruf besar/kecil).
 -   IDE yang digunakan: **Visual Studio Code**.
 
----
-
-## 💡 Saran untuk Reviewer
-
--   Mohon saran dan masukan agar saya dapat meningkatkan kualitas website ini.
--   Saya telah memastikan seluruh kriteria wajib dan tambahan telah diterapkan.
+**Catatan Penutup**  
+Terima kasih telah membaca README ini dan semoga proyek ini dapat bermanfaat.
 
 ---
 
