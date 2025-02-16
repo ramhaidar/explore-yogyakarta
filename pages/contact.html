@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact - Explore Yogyakarta</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="detail.css">
+</head>
+
+<body>
+    <header>
+        <h1><a href="../index.html" style="text-decoration: none; color: inherit;">Explore Yogyakarta</a></h1>
+        <nav>
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li class="dropdown-trigger">
+                    <a href="#">Destinations ▼</a>
+                    <ul class="dropdown">
+                        <li><a href="borobudur.html">Borobudur</a></li>
+                        <li><a href="prambanan.html">Prambanan</a></li>
+                        <li><a href="malioboro.html">Malioboro</a></li>
+                    </ul>
+                </li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main class="detail-page">
+        <article class="detail-content">
+            <h1>Contact Us</h1>
+            <p>Punya pertanyaan atau ingin berbagi pengalaman? Hubungi kami!</p>
+
+            <form class="contact-form">
+                <div class="form-group">
+                    <label for="name">Nama</label>
+                    <input type="text" id="name" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <input type="email" id="email" required>
+                </div>
+                <div class="form-group">
+                    <label for="message">Pesan</label>
+                    <textarea id="message" rows="5" required></textarea>
+                </div>
+                <div class="form-group">
+                    <button type="submit">Kirim Pesan</button>
+                </div>
+            </form>
+        </article>
+    </main>
+    <footer>
+        <p>&copy; 2024 Yogyakarta Travel Blog. All rights reserved.</p>
+    </footer>
+    <script src="../main.js"></script>
+</body>
+
+</html>
